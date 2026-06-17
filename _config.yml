@@ -18,7 +18,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: The Kress Study Collection at the Samek Art Museum, Bucknell University
+title: The Kress Study Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: 
 # description appears in meta tags and other locations
@@ -53,8 +53,8 @@ metadata: samek-kress
 organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://cdil.lib.uidaho.edu/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://samektest2.blogs.bucknell.edu/files/2017/12/SamekLogo_Transparent-768x222.png
-organization-logo-nav: https://samektest2.blogs.bucknell.edu/files/2017/12/SamekLogo_Transparent-768x222.png
+organization-logo-banner: /objects/SamekLogo_Transparent_LtGray.png
+organization-logo-nav: /objects/SamekLogo_Transparent_LtGray.png
 
 ##########
 # ROBOTS EXCLUDE
