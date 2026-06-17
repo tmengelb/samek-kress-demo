@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://tmengelb.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /samek-kress-demo
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/tmengelb/samek-kress-demo
 
 ##########
 # SITE SETTINGS
@@ -25,7 +25,7 @@ tagline:
 # this description might appear in search result lists, keep around 160 characters max
 description: "The Kress Study Collection at the Samek Art Museum, Bucknell University"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: kress; samek art museum; bucknell university
+keywords: kress; samek art museum; bucknell university; kress collection
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: tmengelb
 
@@ -53,8 +53,8 @@ metadata: samek-kress
 organization-name: Samek Art Museum, Bucknell University
 organization-link: museum.bucknell.edu
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: /objects/SamekLogo_Transparent_LtGray.png
-organization-logo-nav: /objects/SamekLogo_Transparent_LtGray.png
+organization-logo-banner: /objects/SamekLogo_Transparent_medgray.png
+organization-logo-nav: /objects/SamekLogo_Transparent_medgray.png
 
 ##########
 # ROBOTS EXCLUDE

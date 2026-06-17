@@ -3,13 +3,13 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
+about-featured-image: /objects/Kress-Banner.jpg
 # set background-position for featured image, "center", "top", "bottom"
-position: bottom
+position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: About the Kress Collection
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -18,22 +18,14 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## Samuel H. Kress: The Man Behind the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+{% include feature/card.html text="painted by Leopold Seyffert in 1953." header="Samuel H. Kress" objectid="https://www.kressfoundation.org/getmedia/c13fba41-357f-4d80-bb56-cf437a0983b9/K1927_SHKress-portrait_sm-min" width="50" %}
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+### The Early Years
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Samuel H. Kress was born in 1863 in Cherryville, Pennsylvania. He was the second of seven children born to German and Irish immigrants. He grew up and attended school in Slatington, Pennsylvania before working in stone quarries later in his youth. By 17, Kress had earned his teaching credentials and began working as a teacher. He saved the money he earned from teaching to open a stationery and notions store in Nanticoke, Pennsylvania. The success of his first store allowed him to expand. He started a chain of five-and-dime stores, opening the first location in Memphis, Tennessee. His business quickly grew to multiple locations. Unlike many peer business owners, Kress opted to locate his stores in rural areas that he thought might grow. This decision contributed to the success of his stores.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+### The Birth of a Collection
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+By the 1920s, Kress was a wealthy man. He was living in a penthouse on Fifth Avenue in New York City, located just across the street from the Metropolitan Museum of Art. He started collecting Italian Renaissance art, inspired, in part, by the book *The Lives of the Most Excellent Painters, Sculptors, and Architects*, a series of artist biographies written by Giorgio Vasari, a sixteenth-century Italian painter. 
