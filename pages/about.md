@@ -28,4 +28,13 @@ Samuel H. Kress was born in 1863 in Cherryville, Pennsylvania. He was the second
 
 ### The Birth of a Collection
 
-By the 1920s, Kress was a wealthy man. He was living in a penthouse on Fifth Avenue in New York City, located just across the street from the Metropolitan Museum of Art. He started collecting Italian Renaissance art, inspired, in part, by the book *The Lives of the Most Excellent Painters, Sculptors, and Architects*, a series of artist biographies written by Giorgio Vasari, a sixteenth-century Italian painter. 
+By the 1920s, Kress was a wealthy man. He was living in a penthouse on Fifth Avenue in New York City, located just across the street from the Metropolitan Museum of Art. He started collecting Italian Renaissance art, inspired, in part, by the book *The Lives of the Most Excellent Painters, Sculptors, and Architects*, a series of artist biographies written by Giorgio Vasari, a sixteenth-century Italian painter. Kress decided he wanted to collect an example of work by every artist listed in the book. 
+
+## The Kress Collection Goes on Tour
+
+In the 1930s, whilst the United States was in the midst of the Great Depression, a portion of the Kress Collection traveled the United States. The tour began in Atlanta, Georgia at the High Museum of Art. It was supposed to visit eight cities over several months. However, the American public was so captivated that the tour was extended to three years and visited 25 venues. This tour not only launched the Kress' collection in the public eye, but presented many Americans their first opportunity to see works of art from this period in person. 
+
+## The Great Kress Giveaway 
+
+## The Kress Collection Comes to Bucknell
+
